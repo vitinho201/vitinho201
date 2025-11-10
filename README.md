@@ -3,7 +3,7 @@
 💻 Programador Java Júnior em busca de desafios!
 ### Rede Social!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viti.nho1328)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-monteiro-9a0098243/)
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinho201&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu Estou Aprendendo!
